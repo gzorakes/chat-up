@@ -5,6 +5,14 @@ A full-stack chat application where users can register, log in, upload profile p
 
 
 
+
+## 📸 Chat
+
+<p align="center">
+  <img src="app3.png" alt="Chat Page" />
+</p>
+
+
 ## ✨ Features
 
 - 🔐 User Authentication (register, login, secure sessions)
@@ -32,7 +40,6 @@ Other:
 - Authentication (JWT or Sessions)
 - Modular and scalable folder structure
 
-
 ## 🏗️ Development Highlights
 
 - Modular architecture for clean separation between frontend and backend
@@ -42,3 +49,16 @@ Other:
 - Environment-based configs for dev & production
 - API testing with tools like Postman
 - REST + WebSocket hybrid architecture for flexibility
+
+## 📸 Login/Register
+
+<p align="center">
+  <img src="app5.png" alt="Chat Page" />
+</p>
+
+## 📸 Switch between 32 themes
+
+<p align="center">
+  <img src="app1.png" alt="Login Page" />
+  <img src="app4.png" alt="Chat Page" />
+</p>
