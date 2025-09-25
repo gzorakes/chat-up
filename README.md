@@ -4,8 +4,8 @@
 A full-stack chat application where users can register, log in, upload profile pictures, and chat in real time. Built with a modern frontend powered by React + TailwindCSS + DaisyUI, and a robust backend using Node.js, Express, Socket.IO, and MongoDB, with Cloudinary for image storage.
 
 [🌐 Visit the app](https://chat-up-1.onrender.com/login)
+<p><sub>*Note: The app is deployed on Render.com, so it may take a couple of seconds to start when first loading.</sub></p>
 
-> ⚠️ **Note:** The app is deployed on [Render](https://render.com), so it may take a couple of seconds to start when first loading.
 
 ## 📸 Chat
 
